@@ -1,0 +1,3 @@
+O sistema deve fazer a solicitacao de uma viagem por aplicativo.
+O sistema deve alocar o carro voador mais proximo do usuario.
+O sistema deve fazer a autenticacao de usuario.
